@@ -10,53 +10,53 @@
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=10402"
   },
   {
-    "id": "MovieForYou",
-    "sectionTitle": "Movies For You",
+    "id": "PopularMovies",
+    "sectionTitle": "Popular Movie",
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=revenue.desc"
   },
   {
-    "id": "MusicalMovies",
-    "sectionTitle": "Musical Movies",
+    "id": "RomanceMovies",
+    "sectionTitle": "Romance Movies",
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=10402"
   },
   {
-    "id": "MovieForYou",
-    "sectionTitle": "Movies For You",
+    "id": "FantasyMovies",
+    "sectionTitle": "Fantasy Movies",
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=revenue.desc"
   },
   {
-    "id": "MusicalMovies",
-    "sectionTitle": "Musical Movies",
+    "id": "DramaMovies",
+    "sectionTitle": "Drama Movies",
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=10402"
   },
   {
-    "id": "MovieForYou",
-    "sectionTitle": "Movies For You",
+    "id": "ActionMovies",
+    "sectionTitle": "Action Movies",
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=revenue.desc"
   },
   {
-    "id": "MusicalMovies",
-    "sectionTitle": "Musical Movies",
+    "id": "AdventureMovies",
+    "sectionTitle": "Adventure Movies",
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=10402"
   },
   {
-    "id": "MovieForYou",
-    "sectionTitle": "Movies For You",
+    "id": "HorrorMovies",
+    "sectionTitle": "Horror Movies",
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=revenue.desc"
   },
   {
-    "id": "MusicalMovies",
-    "sectionTitle": "Musical Movies",
+    "id": "ComedyMovies",
+    "sectionTitle": "Comedy Movies",
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=10402"
   },
   {
-    "id": "MovieForYou",
-    "sectionTitle": "Movies For You",
+    "id": "HistoricalMovies",
+    "sectionTitle": "Historical Movies",
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=revenue.desc"
   },
   {
-    "id": "MusicalMovies",
-    "sectionTitle": "Musical Movies",
+    "id": "CrimeMovies",
+    "sectionTitle": "Crime Movies",
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=10402"
   }
 
