@@ -17,7 +17,7 @@
   {
     "id": "ScienceFictionMovies",
     "sectionTitle": "Science Fiction Movies",
-    "genre": "3/discover/movie?include_video=true&language=en-US&page=1&sort_by=vote_count.desc&with_genres=878"
+    "genre": "3/discover/movie?include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=878%2C14%2C28&without_genres=27%2C99"
   },
   {
     "id": "AnimationMovies",
