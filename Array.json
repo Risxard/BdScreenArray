@@ -32,7 +32,7 @@
   {
     "id": "RomanceMovies",
     "sectionTitle": "Romance Movies",
-    "genre": "3/discover/movie?include_video=true&language=en-US&page=1&sort_by=popularity.asc&with_genres=10749"
+    "genre": "3/discover/movie?include_video=true&language=en-US&page=1&sort_by=popularity.asc&with_genres=10749&without_genres=16"
   },
   {
     "id": "AdventureMovies",
