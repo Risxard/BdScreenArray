@@ -7,7 +7,7 @@
   {
     "id": "ActionMovies",
     "sectionTitle": "Action Movies",
-    "genre": "3/discover/movie?include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=28%2012%2080&without_genres=27"
+    "genre": "3/discover/movie?include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=28%2012%2080&without_genres=27%2016"
   },
   {
     "id": "ComedyMovies",
