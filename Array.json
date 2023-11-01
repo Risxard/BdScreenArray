@@ -5,59 +5,58 @@
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=revenue.desc"
   },
   {
+    "id": "ActionMovies",
+    "sectionTitle": "Action Movies",
+    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=28"
+  },
+  {
+    "id": "ComedyMovies",
+    "sectionTitle": "Comedy Movies",
+    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=35"
+  },
+  {
+    "id": "ScienceFictionMovies",
+    "sectionTitle": "Science Fiction Movies",
+    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=878"
+  },
+  {
+    "id": "AnimationMovies",
+    "sectionTitle": "Animation Movies",
+    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=16"
+  },
+  {
+    "id": "HorrorMovies",
+    "sectionTitle": "Horror Movies",
+    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=27"
+  },
+  {
+    "id": "RomanceMovies",
+    "sectionTitle": "Romance Movies",
+    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=10749"
+  },
+  {
+    "id": "AdventureMovies",
+    "sectionTitle": "Adventure Movies",
+    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=12"
+  },
+  {
+    "id": "FantasyMovies",
+    "sectionTitle": "Fantasy Movies",
+    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=14"
+  },
+  {
     "id": "MusicalMovies",
     "sectionTitle": "Musical Movies",
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=10402"
   },
   {
-    "id": "PopularMovies",
-    "sectionTitle": "Popular Movie",
-    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=revenue.desc"
-  },
-  {
-    "id": "RomanceMovies",
-    "sectionTitle": "Romance Movies",
-    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=10402"
-  },
-  {
-    "id": "FantasyMovies",
-    "sectionTitle": "Fantasy Movies",
-    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=revenue.desc"
-  },
-  {
     "id": "DramaMovies",
     "sectionTitle": "Drama Movies",
-    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=10402"
+    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=18"
   },
   {
-    "id": "ActionMovies",
-    "sectionTitle": "Action Movies",
-    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=revenue.desc"
-  },
-  {
-    "id": "AdventureMovies",
-    "sectionTitle": "Adventure Movies",
-    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=10402"
-  },
-  {
-    "id": "HorrorMovies",
-    "sectionTitle": "Horror Movies",
-    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=revenue.desc"
-  },
-  {
-    "id": "ComedyMovies",
-    "sectionTitle": "Comedy Movies",
-    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=10402"
-  },
-  {
-    "id": "HistoricalMovies",
-    "sectionTitle": "Historical Movies",
-    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=revenue.desc"
-  },
-  {
-    "id": "CrimeMovies",
-    "sectionTitle": "Crime Movies",
-    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=10402"
+    "id": "DocumentaryrMovies",
+    "sectionTitle": "Documentaries",
+    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=99"
   }
-
 ]
