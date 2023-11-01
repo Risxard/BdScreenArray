@@ -27,7 +27,7 @@
   {
     "id": "HorrorMovies",
     "sectionTitle": "Horror Movies",
-    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=27"
+    "genre": "3/discover/movie?include_adult=true&include_video=true&language=en-US&page=1&sort_by=vote_average.desc&with_genres=27"
   },
   {
     "id": "RomanceMovies",
@@ -57,6 +57,11 @@
   {
     "id": "DocumentaryrMovies",
     "sectionTitle": "Documentaries",
+    "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=99"
+  },
+  {
+    "id": "MysteryrMovies",
+    "sectionTitle": "Mystery Movies",
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=en-US&page=1&sort_by=popularity.desc&with_genres=99"
   }
 ]
