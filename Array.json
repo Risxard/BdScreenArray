@@ -18,50 +18,5 @@
     "id": "ScienceFictionMovies",
     "sectionTitle": "Science Fiction Movies",
     "genre": "3/discover/movie?include_adult=false&include_video=true&language=${language}&page=1&sort_by=popularity.desc&with_genres=878"
-  },
-  {
-    "id": "AnimationMovies",
-    "sectionTitle": "Animation Movies",
-    "genre": "3/discover/movie?include_video=true&language=${language}&page=1&sort_by=vote_count.desc&with_genres=16"
-  },
-  {
-    "id": "HorrorMovies",
-    "sectionTitle": "Horror Movies",
-    "genre": "3/discover/movie?include_video=true&language=${language}&page=1&sort_by=popularity.desc&with_genres=27&without_genres=16"
-  },
-  {
-    "id": "RomanceMovies",
-    "sectionTitle": "Romance Movies",
-    "genre": "3/discover/movie?include_video=true&language=${language}&page=1&sort_by=popularity.desc&with_genres=10749&without_genres=16"
-  },
-  {
-    "id": "AdventureMovies",
-    "sectionTitle": "Adventure Movies",
-    "genre": "3/discover/movie?include_video=true&language=${language}&page=1&sort_by=vote_count.desc&with_genres=12"
-  },
-  {
-    "id": "FantasyMovies",
-    "sectionTitle": "Fantasy Movies",
-    "genre": "3/discover/movie?include_video=true&language=${language}&sort_by=popularity.desc&with_genres=14"
-  },
-  {
-    "id": "MusicalMovies",
-    "sectionTitle": "Musical Movies",
-    "genre": "3/discover/movie?include_video=true&language=${language}&page=1&sort_by=vote_count.desc&with_genres=10402"
-  },
-  {
-    "id": "DramaMovies",
-    "sectionTitle": "Drama Movies",
-    "genre": "3/discover/movie?include_video=true&language=${language}&page=1&sort_by=vote_count.desc&with_genres=18&without_genres=27%2C99%2C80%2C28"
-  },
-  {
-    "id": "DocumentaryrMovies",
-    "sectionTitle": "Documentaries",
-    "genre": "3/discover/movie?include_video=true&language=${language}&page=1&sort_by=vote_count.desc&with_genres=99"
-  },
-  {
-    "id": "MysteryrMovies",
-    "sectionTitle": "Mystery Movies",
-    "genre": "3/discover/movie?include_video=true&language=${language}&page=1&sort_by=vote_count.desc&with_genres=9648"
   }
 ]
