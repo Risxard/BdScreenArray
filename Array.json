@@ -2,7 +2,7 @@
   {
     "id": "MovieForYou",
     "sectionTitle": "Movies For You",
-    "genre": "3/discover/movie?include_adult=false&include_video=true&page=1&sort_by=revenue.desc"
+    "genre": "3/discover/movie?include_adult=false&language=${language}&include_video=true&page=1&sort_by=revenue.desc"
   },
   {
     "id": "ActionMovies",
